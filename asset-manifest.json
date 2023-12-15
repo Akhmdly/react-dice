@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-dice/static/css/main.362ae14d.css",
+    "main.js": "/react-dice/static/js/main.857c8b34.js",
+    "static/js/787.d4aba7ab.chunk.js": "/react-dice/static/js/787.d4aba7ab.chunk.js",
+    "static/media/img6.jpg": "/react-dice/static/media/img6.29129b512aa2d63315e0.jpg",
+    "static/media/img3.png": "/react-dice/static/media/img3.3edb829be6e0e7a04a32.png",
+    "static/media/img1.png": "/react-dice/static/media/img1.077007a2198c7d9b190b.png",
+    "static/media/img5.png": "/react-dice/static/media/img5.2352c8f67e003849ec98.png",
+    "static/media/img4.png": "/react-dice/static/media/img4.9caf72bca2a3e5c36e51.png",
+    "index.html": "/react-dice/index.html",
+    "main.362ae14d.css.map": "/react-dice/static/css/main.362ae14d.css.map",
+    "main.857c8b34.js.map": "/react-dice/static/js/main.857c8b34.js.map",
+    "787.d4aba7ab.chunk.js.map": "/react-dice/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362ae14d.css",
+    "static/js/main.857c8b34.js"
+  ]
+}
